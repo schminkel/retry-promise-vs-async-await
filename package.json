@@ -2,9 +2,9 @@
   "name": "retry-promise-vs-async-await",
   "version": "0.0.1",
   "scripts": {
-    "me": "open-cli index.html"
+    "me": "open index.html"
   },
   "dependencies": {
-    "open-cli": "^7.2.0"
+    "open": "^9.1.0"
   }
 }

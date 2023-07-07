@@ -2,6 +2,8 @@
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/schminkel/retry-promise-vs-async-await?startScript=me)
 
+OR
+
 ```bash
 npm i
 npm run me

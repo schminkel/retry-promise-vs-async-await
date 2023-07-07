@@ -2,9 +2,10 @@
   "name": "retry-promise-vs-async-await",
   "version": "0.0.1",
   "scripts": {
-    "me": "open index.html"
+    "me": "live-server"
   },
   "dependencies": {
-    "open": "^9.1.0"
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2"
   }
 }

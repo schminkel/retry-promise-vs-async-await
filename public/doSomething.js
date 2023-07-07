@@ -4,7 +4,7 @@ function doSomething() {
     setTimeout(() => {
       // do some tricky math
       
-      let a = 1 + 1
+      let a = 1 + 2
       
       if (a == 2) {
         console.log('doSomething success ✅')

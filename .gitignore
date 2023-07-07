@@ -1,0 +1,10 @@
+# Folder with this name will be ignored
+**/.idea/
+**/.next/
+**/.cache/
+**/node_modules/
+**/build/
+
+# Files with this name will be ignored
+**/.DS_Store
+**/.env

@@ -1,6 +1,10 @@
 {
-  "name": "js",
-  "version": "0.0.0",
-  "private": true,
-  "dependencies": {}
+  "name": "retry-promise-vs-async-await",
+  "version": "0.0.1",
+  "scripts": {
+    "me": "open-cli index.html"
+  },
+  "dependencies": {
+    "open-cli": "^7.2.0"
+  }
 }
